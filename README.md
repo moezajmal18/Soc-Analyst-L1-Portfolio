@@ -17,7 +17,7 @@
 
 ## 👋 About Me
 
-I'm an aspiring **SOC (Security Operations Center) Analyst** currently studying IT/Computer Science and building hands-on blue team skills from the ground up. This repository is my public learning log — a place to track my roadmap, document labs and mini-projects, and keep notes on the core SOC concepts as I learn them.
+I'm **Moez Ajmal**, an aspiring **SOC (Security Operations Center) Analyst** currently studying IT/Computer Science and building hands-on blue team skills from the ground up. This repository is my public learning journey.
 
 I'm sharing this openly because I believe the best way to break into cybersecurity is to **show your work**, not just claim it. Everything here is a work in progress and updated as I go.
 
