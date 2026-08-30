@@ -9,7 +9,7 @@
 ![Security+](https://img.shields.io/badge/CompTIA%20Security%2B-In%20Progress-yellow)
 ![Last Updated](https://img.shields.io/badge/Last%20Updated-2026--08-lightgrey)
 
-[LinkedIn](#) · [Email](#) · [Roadmap](ROADMAP.md) · [Certifications](CERTIFICATIONS.md) · [Labs](labs/) · [Resources](RESOURCES.md)
+[LinkedIn](https://www.linkedin.com/in/moez-ajmal-246095431) · [Email](mailto:moezajmal18@gmail.com) · [Roadmap](ROADMAP.md) · [Certifications](CERTIFICATIONS.md) · [Labs](labs/) · [Resources](RESOURCES.md)
 
 </div>
 
@@ -70,7 +70,7 @@ Update the status badges as you complete each lab — that's the whole point of 
 
 ## 📫 Connect With Me
 
-- LinkedIn: [Add your LinkedIn URL here]
-- Email: [Add your email here]
+- LinkedIn: [Moez Ajmal](https://www.linkedin.com/in/moez-ajmal-246095431)
+- Email: [moezajmal18@gmail.com](mailto:moezajmal18@gmail.com)
 
 ⭐ If you're on a similar journey, feel free to fork this template and build your own learning-in-public repo.
