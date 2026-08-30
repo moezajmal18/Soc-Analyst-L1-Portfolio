@@ -31,8 +31,6 @@ I'm sharing this openly because I believe the best way to break into cybersecuri
 |---|---|
 | [`ROADMAP.md`](ROADMAP.md) | My step-by-step SOC analyst learning path, broken into phases |
 | [`CERTIFICATIONS.md`](CERTIFICATIONS.md) | Certifications I'm pursuing, in progress, or completed |
-| [`notes/`](notes/) | Study notes on networking, SIEM, incident response, and threat intel |
-| [`labs/`](labs/) | Hands-on lab write-ups (log analysis, PCAP analysis, SIEM queries, phishing analysis) |
 | [`RESOURCES.md`](RESOURCES.md) | Free platforms, courses, and communities I'm using to learn |
 
 ---
@@ -58,7 +56,6 @@ See the full breakdown in [ROADMAP.md](ROADMAP.md).
 | [SIEM Query Practice](labs/03-siem-splunk-queries) | Splunk SPL / detection queries | 🔲 Not started |
 | [Phishing Email Analysis](labs/04-phishing-email-analysis) | Header analysis, IOC extraction | 🔲 Not started |
 
-Update the status badges as you complete each lab — that's the whole point of this repo: **visible progress**.
 
 ---
 
@@ -73,4 +70,4 @@ Update the status badges as you complete each lab — that's the whole point of 
 - LinkedIn: [Moez Ajmal](https://www.linkedin.com/in/moez-ajmal-246095431)
 - Email: [moezajmal18@gmail.com](mailto:moezajmal18@gmail.com)
 
-⭐ If you're on a similar journey, feel free to fork this template and build your own learning-in-public repo.
+Always open to new opportunities and interesting discussions—let's connect!
