@@ -1,0 +1,13 @@
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
+
+# Downloaded/sensitive samples (never commit real PCAPs, credentials, or live malware/phishing samples)
+*.pcap
+*.pcapng
+credentials*
+*.eml
