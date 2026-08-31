@@ -54,7 +54,7 @@ See the full breakdown in [ROADMAP.md](ROADMAP.md).
 | [Wireshark PCAP Analysis](labs/01-wireshark-pcap-analysis) | Network traffic analysis | 🔲 Not started |
 | [Linux Log Analysis](labs/02-log-analysis-linux) | Log parsing & anomaly spotting | 🔲 Not started |
 | [SIEM Query Practice](labs/03-siem-splunk-queries) | Splunk SPL / detection queries | 🔲 Not started |
-| [Phishing Email Analysis](labs/04-phishing-email-analysis) | Header analysis, IOC extraction | 🔲 Not started |
+| [Phishing Email Analysis](labs/04-phishing-email-analysis) | Header analysis, IOC extraction | 🔲 Started |
 
 
 ---
